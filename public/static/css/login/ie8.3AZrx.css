@@ -1,0 +1,13 @@
+.legal-wrapper .main-container {
+  background-color: #112b3c;
+  border: 1px solid #3a5a71;
+  overflow-y: scroll;
+}
+.input-alike {
+  border: 1px solid #0c72a4;
+}
+.icon-chevron-up {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImllOC5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLGNBQ0k7RUFDSSx5QkFBQTtFQUNBLHlCQUFBO0VBQ0Esa0JBQUE7O0FBSVI7RUFDSSx5QkFBQTs7QUFHSjtFQUNJLGFBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJcbi5sZWdhbC13cmFwcGVyIHtcbiAgICAubWFpbi1jb250YWluZXIge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMTEyYjNjO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjM2E1YTcxO1xuICAgICAgICBvdmVyZmxvdy15OiBzY3JvbGw7XG4gICAgfVxufVxuXG4uaW5wdXQtYWxpa2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkICMwYzcyYTQ7XG59XG5cbi5pY29uLWNoZXZyb24tdXAge1xuICAgIGRpc3BsYXk6bm9uZTtcbn0iXSwiZmlsZSI6ImllOC5jc3MifQ== */

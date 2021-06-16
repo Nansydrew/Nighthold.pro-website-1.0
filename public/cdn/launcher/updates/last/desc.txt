@@ -1,0 +1,1 @@
+version=1.3.5.6788*description=Build 26972 supported*link=http://wowlegions.loc/cdn/launcher/updates/1.3.5.6788/data.rar

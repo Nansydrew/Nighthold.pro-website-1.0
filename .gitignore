@@ -1,0 +1,11 @@
+/node_modules
+/public/hot
+/resources/js
+.idea
+.env
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+/Launcher-master
+public/storage
+public/uploads/item

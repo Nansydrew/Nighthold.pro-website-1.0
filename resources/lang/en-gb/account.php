@@ -1,0 +1,82 @@
+<?php
+return [
+    /****
+     * Account Create
+     */
+
+    'create_step_0_1' => ':name Account Creation',
+
+    'create_step_1_1' => 'Get Started',
+    'create_step_1_2' => 'Let us verify some information about you to help set up your account.',
+    'create_step_1_3' => 'Learn why we need this',
+    'create_step_1_4' => 'The following information help us verify your identity and provide you with appropriate content and settings.',
+    'create_step_1_5' => 'Date of Birth (dd / mm / yyyy)',
+    'create_step_1_6' => 'dd',
+    'create_step_1_7' => 'mm',
+    'create_step_1_8' => 'yyyy',
+    'create_step_1_9' => 'Continue',
+    'create_step_1_10' => 'Or sign up with',
+    'create_step_1_11' => 'Already have an account? ',
+    'create_step_1_12' => 'Login',
+
+    'create_step_2_1' => 'What\'s Your Name?',
+    'create_step_2_2' => ' Your real name may be used later to verify your identity when contacting Blizzard. By Default, your name will not be publicly visible. ',
+    'create_step_2_3' => 'Learn More',
+    'create_step_2_4' => 'First Name',
+    'create_step_2_5' => 'Last Name',
+    'create_step_2_6' => 'Continue',
+    'create_step_2_7' => 'Go Back',
+
+    'create_step_3_1' => 'Identify Your Account',
+    'create_step_3_2' => 'This is what you will use when you log in to websites and games. ',
+    'create_step_3_3' => 'Add a phone number to your account to enable additional login and recovery options, receive critical alerts and enhance your account\'s security.',
+    'create_step_3_4' => 'Why adding a phone is useful',
+    'create_step_3_5' => 'Email',
+    'create_step_3_6' => '(Optional) Phone Number',
+
+    'create_step_4_1' => 'Review Terms',
+    'create_step_4_2' => 'Please review the terms and opt-ins below.',
+    'create_step_4_3' => 'Receive carefully selected news, event information and special offers about third-party products and services.',
+    'create_step_4_4' => 'I have reviewed and understand the Privacy Policy. For more information about how we use information and your rights to object, see our ',
+    'create_step_4_5' => ':name Privacy Policy ',
+    'create_step_4_6' => ' By clicking on "Continue", I agree to the ',
+    'create_step_4_7' => ':name End User License Agreement ',
+    'create_step_4_8' => 'Chat Agreement ',
+    'create_step_4_9' => 'Anti-cheating Agreement ',
+
+    'create_step_5_1' => 'Set Your Password',
+    'create_step_5_2' => 'Secure your account and choose a strong password.',
+    'create_step_5_3' => 'Password',
+    'create_step_5_4' => 'The password you entered is not secure enough. To create a strong password, avoid common words and phrases. Include multiple words, numbers, capital letters, or symbols.',
+    'create_step_5_5' => 'Requirements not met',
+    'create_step_5_6' => 'Poor',
+    'create_step_5_7' => 'Uncommon',
+    'create_step_5_8' => 'Epic',
+    'create_step_5_9' => 'Password Strength',
+
+    'create_step_6_1' => 'Create Your :name',
+    'create_step_6_2' => 'This name will be your public identity. You’ll be able to change it once for free.',
+    'create_step_6_3' => 'Enter you :name',
+
+    'create_step_7_1' => 'You are all set!',
+    'create_step_7_2' => 'Your account has been created:',
+    'create_step_7_3' => 'You can use your :name Account to play on any device. You can change your email address or phone number at any time in ',
+    'create_step_7_4' => 'Account Settings',
+    'create_step_7_5' => 'Download App',
+
+    'login_1' => ':name Login',
+    'login_2' => 'Close',
+    'login_3' => 'Your browser\'s cookies are disabled. Please reenable cookies to continue.',
+    'login_4' => 'JavaScript must be enabled to use this site.',
+    'login_5' => 'Email',
+    'login_6' => 'Email field, enter email address',
+    'login_7' => 'Password',
+    'login_8' => 'Password field, enter password',
+    'login_9' => 'Show Password',
+    'login_10' => 'Hide Password',
+    'login_11' => 'Log In',
+    'login_12' => 'Or log in with',
+    'login_13' => 'Create a free Account',
+    'login_14' => 'Can\'t log in?',
+    'login_15' => 'Go to error support link, external link.',
+];

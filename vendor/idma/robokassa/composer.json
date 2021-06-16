@@ -1,0 +1,31 @@
+{
+    "name": "idma/robokassa",
+    "description": "PHP library for Robokassa payment system",
+    "keywords": ["idma", "robokassa", "payment"],
+    "homepage": "https://github.com/idma/robokassa",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "JhaoDa",
+            "role": "Developer",
+            "email": "jhaoda@gmail.com",
+            "homepage": "https://github.com/jhaoda"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/idma/robokassa",
+        "issues": "https://github.com/idma/robokassa/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Idma\\Robokassa\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

@@ -1,0 +1,23 @@
+<?php
+return [
+    'create_step_1_1' => 'Начать',
+    'create_step_1_2' => 'Давайте проверим информацию о вас, которая поможет приступить к созданию учетной записи.',
+    'create_step_1_3' => 'Почему нам это нужно',
+    'create_step_1_4' => 'Следующие данные помогут нам подтвердить вашу личность.',
+    'create_step_1_5' => '',
+    'create_step_1_6' => '',
+    'create_step_1_7' => '',
+    'create_step_1_8' => '',
+    'create_step_1_9' => '',
+    'create_step_1_10' => '',
+    'create_step_1_11' => '',
+    'create_step_1_12' => '',
+    'create_step_1_13' => '',
+    'create_step_1_14' => '',
+    'create_step_1_15' => '',
+    'create_step_1_16' => '',
+    'create_step_1_17' => '',
+    'create_step_1_18' => '',
+    'create_step_1_19' => '',
+    'create_step_1_20' => '',
+];

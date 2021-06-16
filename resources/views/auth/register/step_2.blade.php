@@ -1,0 +1,11 @@
+<i class="phantom" id="step-meta-data" data-step-id="provide-name" data-step-has-errors="false"></i>
+<h1 class="step__title step__block">@lang('account.create_step_2_1')</h1>
+<p class="step__description step__block"> @lang('account.create_step_2_2') <a href="/" rel="external noopener" target="_blank">@lang('account.create_step_2_3')<i class="fas fa-external-link"></i></a> </p> <form class="step__form step__block" action="/account/creation/flow/create-full/step/provide-name" method="post" id="flow-form" enctype="multipart/form-data" novalidate> @csrf <div class="step__field step__form__block"> <input class="step__input" valid="true" id="capture-first-name" data-capture-id="first-name" name="first-name" placeholder="@lang('account.create_step_2_4')" type="text" minlength="2" autocomplete="given-name" maxlength="32" pattern="((?!(\s{2})).){2,32}" autocapitalize="on" /> <span class="step__field__indicator"></span> </div>     @error('first-name')
+    <ul class="step__form__block step__field-errors" id="capture-error-first-name-container">
+        <li class="step__field-errors-item">Укажите имя</li>
+    </ul>
+    @enderror<div class="step__field step__form__block"> <input class="step__input" valid="true" id="capture-last-name" data-capture-id="last-name" name="last-name" placeholder="@lang('account.create_step_2_5')" type="text" minlength="2" autocomplete="family-name" maxlength="32" pattern="((?!(\s{2})).){2,32}" autocapitalize="on" /> <span class="step__field__indicator"></span> </div> @error('last-name')
+    <ul class="step__form__block step__field-errors" id="capture-error-last-name-container">
+        <li class="step__field-errors-item">Укажите фамилию</li>
+    </ul>
+    @enderror<button type="submit" class="step__button--primary step__block" id="flow-form-submit-btn">@lang('account.create_step_2_6')</button> </form> <ul class="step__controls step__block"> <li class="step__controls__item"> <a href="/account/creation/flow/create-full/back" class="step__controls__link" id="flow-button-back">@lang('account.create_step_2_7')</a> </li> </ul> <ul class="step__pagination"> <li class="step__pagination__item"></li> <li class="step__pagination__item--active"></li> <li class="step__pagination__item"></li> <li class="step__pagination__item"></li> <li class="step__pagination__item"></li> <li class="step__pagination__item"></li> </ul>
