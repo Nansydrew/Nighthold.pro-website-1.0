@@ -1,4 +1,4 @@
-# WLGroup
+# Старая версия сайта Nighthold.pro сделанная WLGROUP на Laravel Framevork
 
 * Реализация сайта.
 
