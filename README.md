@@ -2,6 +2,7 @@
 
 * Реализация сайта.
 
+RU INFO:
 Возможности сайта:
 * Главная страница
 * Система новостей
@@ -44,3 +45,48 @@
         * Снять Мут
         * Снять Блокировку Аккаунта
     * Голосование за сервер
+
+EN INFO:
+Site features:
+
+Main page
+News system
+Site search (Characters, news, guilds)
+Registration
+Authorization
+Multilingual
+Armory
+character `s name
+Class
+Race
+Level
+ILevel
+Specialization
+PvP Rating 2v2
+PvP Rating 3x3
+PvP Rating 10x10
+Conclusion of dressed clothes
+Withdrawal of talents
+Withdrawal of pvp talents
+Reputation output
+Display information about boss kills
+Forum:
+Creating themes
+Browse Topics
+Reply in topics
+Close, open topic ( For Admin )
+Pin, unpin theme ( For Admin )
+Personal Area
+Balance replenishment (RoboKassa, FreeKassa)
+payment history
+password change
+Change Email
+Referral
+Services
+Race change
+Faction Change
+Name change
+Getting out of a jam
+Remove Mut
+Remove Account Lock
+Server voting
